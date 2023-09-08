@@ -6,6 +6,7 @@ license-file = "LICENSE"
 description = "Traits for generic numeric constants"
 repository = "https://github.com/PanieriLorenzo/numeric_constant_traits/tree/main"
 readme = "README.md"
+documentation = "https://docs.rs/numeric_constant_traits"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
